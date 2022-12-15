@@ -1371,6 +1371,11 @@ blog
 	-ms-transform: scale(1.1);
 	transform: scale(1.1);
 }
+
+@media (max-width:991px){
+  .folio-item .item-wrap .overlay{
+    margin-left: 50px !important;
+  }
 /* 
 ---------------------------------------------
 contact
